@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Santiago%20Monsalve%20León&fontColor=00f5ff&fontSize=34&animation=fadeIn&desc=Developer%20in%20progress&descAlignY=65&descColor=ffffff" />
 
-### 🧠 Software Developer | FullStack
+### 🧠 Software Developer Jr | FullStack
 🟣 Java • Angular • React  
 🟢 Building skills. One commit at a time.
 
